@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jorgejaramillo/.android/build-cache/6f65ae86875003ac3921842c8a85b3567d864d95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a77138ac5211331e9579024c12bedabe3c835260">
+        <dex dex="/Users/jorgejaramillo/AndroidStudioProjects/GDTX-APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3882f0e4e8ade3a0454bfe16f47d1dde43f34dc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jorgejaramillo/AndroidStudioProjects/GDTX-APP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ee8f4ca3f04a10d80f4d8ceb7d70e5aa7363754">
+        <dex dex="/Users/jorgejaramillo/AndroidStudioProjects/GDTX-APP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f0433e9ed2e0a9f720c0f3eaa5afc0b656e44d1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jorgejaramillo/AndroidStudioProjects/GDTX-APP/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/jorgejaramillo/AndroidStudioProjects/GDTX-APP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4a7b1a1c2ccad3c78e8e7b595e3bd092b86a0b99/classes.dex" />
+    </item>
+
+</items>
